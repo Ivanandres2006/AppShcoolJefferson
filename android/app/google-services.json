@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "563560730997",
+    "project_id": "appjefferson-e21f3",
+    "storage_bucket": "appjefferson-e21f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563560730997:android:bd320962e769ed1aed433c",
+        "android_client_info": {
+          "package_name": "com.example.app_jefferson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563560730997-qaq01vfk9hbebgd2bj3inal024vn4itp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz5Iud6l0bT9tlxAAlibfa0s1_voJ3rjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563560730997-qaq01vfk9hbebgd2bj3inal024vn4itp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
